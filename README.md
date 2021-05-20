@@ -20,6 +20,23 @@ It happens because as the LDR gets light on it, its resistance increases and it 
 the voltage to go further. In case of night or shadow the LDR's resistance decreases and the LED 
 starts glowing. 
                                   
+#### Light Dependent Resistor(LDR) Applications:
+
+
+The important applications of LDR are,
+
+1. LDRs are used in Light Sensors
+
+2. LDR is also used in some cameras to detect the presence of the light.
+
+3. LDRs are used Ligh Intensity measurement meters.
+
+4. In the manufacturing industry, LDR is used as a sensor for the counting of the packets moving on a conveyor belt.
+
+5. LDRs are also used in Light Activated Control Circuits.
+
+6. LDRs are used in Street Lights which are automatically turn ON in the night time.                                  
+                                  
                                                           
 ## COMPONENTS USED
 1)LED                                                                            
