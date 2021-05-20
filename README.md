@@ -22,12 +22,12 @@ starts glowing.
                                   
                                                           
 ## COMPONENTS USED
-1)LED
-2)Transistor- BC547
-3)Light Dependent Resistor(LDR)
-4)Resistor- 50kohm , 1kohm                                      
+1)LED                                                                            
+2)Transistor- BC547                                                               
+3)Light Dependent Resistor(LDR)                                                                
+4)Resistor- 50kohm , 1kohm                                                                                                          
 (If you dont have 50k ohm resistor, you can also use 2 resistor in series of 25k ohm)
-5) Batter-9v 
-6) Few jumper wires
+5) Batter-9v                                                     
+6) Few jumper wires                                                                                       
 
 Took help from youtube videos!
